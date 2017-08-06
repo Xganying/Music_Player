@@ -22,15 +22,15 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## Introduction
 
-### 业务层（Function）：
+### 1、 业务层（Function）：
 
 设计功能页面包括： 推荐页面， 歌手页面， 歌手详情页面， 播放器页面， 歌单页面， 排行榜页面， 歌单列表页面， 搜索页面， 歌曲列表页面， 用户中心页面
 
-### 技术支撑层（Technology）：
+### 2、 技术支撑层（Technology）：
 
  node后台， vue基础组件库， 状态管理vuex， 路由vue-router， 脚手架工具vue-cli， 自动化构建工具， 代码检查eshint， 服务端通讯jsonp
 
-### 进度（Schedule）
+### 3、 进度（Schedule）
 
 （1）搭建项目初始结构，文件目录规划
 
