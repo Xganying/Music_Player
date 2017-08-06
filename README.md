@@ -1,8 +1,8 @@
-# music player
+# Music Player
 
 > music webapp
 
-## Build Setup
+# Build Setup
 
 ``` bash
 
@@ -24,7 +24,7 @@ npm run build --report
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-## Introduction
+# Introduction
 
 ### 1、 业务层（Function）：
 
