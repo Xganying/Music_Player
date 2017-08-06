@@ -5,6 +5,10 @@
 ## Build Setup
 
 ``` bash
+
+# clone project
+git clone https://github.com/Xganying/Music_Player.git
+
 # install dependencies
 npm install
 
