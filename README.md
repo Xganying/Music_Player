@@ -42,4 +42,6 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 （3）配置路由，开发顶部导航栏组件
 
-（4）轮播图组件实现
+（4）推荐页面开发
+ 
+    轮播图组件实现
