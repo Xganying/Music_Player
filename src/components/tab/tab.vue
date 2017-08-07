@@ -40,6 +40,5 @@
 	  .tab-link
 	    color: $color-theme;
 	    border-bottom: 2px solid $color-theme;
-	
-	
+
 </style>
