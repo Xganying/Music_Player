@@ -44,4 +44,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 （4）推荐页面开发
  
-    轮播图组件实现
+      轮播图组件实现
